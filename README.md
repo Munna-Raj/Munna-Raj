@@ -16,8 +16,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyadav&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyadav&layout=compact&theme=radical)
+![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munna-Raj&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Raj&layout=compact&theme=radical)
 
 ---
 

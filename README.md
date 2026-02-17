@@ -1,15 +1,70 @@
-# 💫 About Me:
-# Munna-Raj-Yadav<br>🚀 My GitHub profile – learning, building, and exploring!<br><br>## 👋 Hi, I’m Munna Raj Yadav<br>**Learning Full Stack Web Development | Java | MERN | Backend APIs**<br><br>---<br><br>## 🧠 Skills<br>![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) [CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)<br>![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)<br>![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)<br>![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) [C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) <br>![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F00?logo=probot&logoColor=white)<br><br><br>---<br><br><br>---<br><br>## 🔗 Connect with Me<br>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/munna-raj-yadav-199353282/)<br>[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779829395174)<br><br>
+# 💫 About Me  
+### 👋 Hi, I’m **Munna Raj Yadav**  
+🎓 Passionate Full Stack Developer | 💻 Java, MERN & .NET Learner | 🚀 Always Building & Exploring  
 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ! ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Munna-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Munna-Raj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I love creating real-world projects that solve problems — from cinema booking systems to AI-driven skill exchange platforms. I’m constantly learning and experimenting with new technologies in both **Java-based web** and **MERN Stack** environments.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Munna-Raj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Skills & Technologies  
+**Languages:** Java, JavaScript, C#, Python, HTML, CSS, SQL  
+**Frameworks & Tools:** React, Node.js, Express.js, JSP, Servlets, .NET, MongoDB, MySQL  
+**Concepts:** REST APIs, MVC Architecture, CRUD Operations, Authentication, Session Management  
+**Other Tools:** Git, GitHub, VS Code, IntelliJ, NetBeans, Postman  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🧩 [SkillXchange](https://github.com/Munna-Raj/SkillXchange)  
+> A MERN-based skill-sharing platform where users can teach and learn from each other.  
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, REST API  
+
+---
+
+### 🎬 [Elite Cinema System](https://github.com/Munna-Raj/Elite_Cinema)  
+> A complete online movie ticket booking system using Java and JSP.  
+**Features:** Admin panel, seat booking, CRUD for movies, session tracking  
+**Tech:** Java, JSP, Servlets, JDBC, MySQL, MVC  
+
+---
+
+### 🏥 [Doctor Appointment System](https://github.com/Munna-Raj/Doctor_Appointment_System)  
+> Web-based app to manage doctor appointments and patient records.  
+**Tech:** Java, JSP, Servlets, MySQL, HTML/CSS  
+
+---
+
+### 🏠 [Room Finder](https://github.com/Munna-Raj/room-finder)  
+> MERN-based platform for finding and listing rental rooms with user authentication.  
+**Tech:** React, Node.js, Express, MongoDB  
+
+---
+
+### 🧾 [Journal Management System (C#)](https://github.com/Munna-Raj/Week_8_Task)  
+> A secure desktop-based journal app built using C#.NET with PIN authentication and rich-text notes.  
+**Tech:** C#, .NET Framework, WinForms  
+
+---
+
+### 💻 [Intuji Frontend Internship Challenge](https://github.com/Munna-Raj/intuji-frontend-internship-challeng)  
+> Frontend design project focusing on responsive layouts and clean UI using modern CSS practices.  
+**Tech:** HTML, CSS, JS  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munna-Raj&theme=radical&show_icons=true&hide_border=false&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Munna-Raj&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Raj&theme=radical&layout=compact)
+
+---
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munna-raj-yadav-199353282/)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9779829395174)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Munna-Raj)  
+
+---
+
+⭐ **“Code, Learn, and Keep Improving — One Project at a Time.”**

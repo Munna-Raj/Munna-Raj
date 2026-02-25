@@ -1,6 +1,6 @@
 # 💫 About Me  
 ### 👋 Hi, I’m **Munna Raj Yadav**  
-🎓 Passionate MERN Stack Developer | 💻 Java, MERN & .NET Learner | 🚀 Always Building & Exploring  
+🎓 Passionate **MERN Stack Developer** | 💻 Java, MERN & .NET Learner | 🚀 Always Building & Exploring  
 
 I love creating real-world projects that solve problems — from cinema booking systems to AI-driven skill exchange platforms. I’m constantly learning and experimenting with new technologies in both **Java-based web** and **MERN Stack** environments.
 
